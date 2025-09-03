@@ -66,21 +66,33 @@ Employee Portal → AI Analysis → Smart Routing → HR Assignment → Real-tim
 ## Core Features
 
 ### 1. Anonymous Grievance Submission
+
+![Employee Submission Flow](docs/assets/screenshots/employee-submission-flow.png)
+
 - **6-step guided process** with progress tracking
 - **Anonymity options** with secure token generation
 - **Category-based routing** for efficient processing
 
 ### 2. AI-Powered Case Analysis  
+
+![HR Case Management](docs/assets/screenshots/case-details-hr-view.png)
+
 - **Intelligent summarization** extracting WHO/WHAT/WHEN/WHERE
 - **Severity assessment** using deterministic keyword rules
 - **Automatic categorization** and tagging for consistency
 
 ### 3. Smart HR Assignment
+
+![Workflow Automation](docs/assets/screenshots/workflow-1-new-grievance.png)
+
 - **Expertise matching** based on case category and specialist skills
 - **Workload balancing** across available HR representatives
 - **Escalation handling** for high-severity cases
 
 ### 4. Real-time Case Tracking
+
+![Case Status Tracking](docs/assets/screenshots/case-tracking-employee-view.png)
+
 - **Progress visualization** with completion percentages
 - **Status timeline** showing all case activities  
 - **Secure communication** preserving anonymity when required
@@ -119,20 +131,6 @@ Employee Portal → AI Analysis → Smart Routing → HR Assignment → Real-tim
 | **Phase 1** | Core platform with AI workflows | ✅ **Completed** |
 | **Phase 2** | Advanced analytics and mobile app | 📅 **Planned Q4 2025** |
 | **Phase 3** | Enterprise integrations and SSO | 📅 **Planned Q1 2026** |
-
----
-
-## Product Artifacts
-
-### Screenshots
-- [Employee Submission Flow](docs/assets/screenshots/) 
-- [HR Dashboard Interface](docs/assets/screenshots/)
-- [Case Tracking System](docs/assets/screenshots/)
-
-### Process Documentation  
-- [User Journey Mapping](docs/product/)
-- [Technical Architecture](docs/technical/)
-- [API Documentation](docs/technical/)
 
 ---
 
